@@ -10,6 +10,8 @@ namespace Employee_Portal.Controllers
 
     //Without Commit All trying to PUSH
 
+    // This comment is directly added from GitHub 
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
