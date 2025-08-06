@@ -6,8 +6,6 @@ namespace Employee_Portal.Controllers
 {
     //Hello
 
-    //Bye
-
     //Without Commit All trying to PUSH
 
     // This comment is directly added from GitHub 
