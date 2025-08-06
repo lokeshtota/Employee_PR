@@ -8,6 +8,8 @@ namespace Employee_Portal.Controllers
 
     //Bye
 
+    //Without Commit All trying to PUSH
+
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
